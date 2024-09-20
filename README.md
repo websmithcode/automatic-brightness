@@ -1,3 +1,5 @@
+![Release Build](https://github.com/websmithcode/automatic-brightness/actions/workflows/release.yml/badge.svg)
+
 # Automatic Brightness
 
 Automatic Brightness is a time-based brightness controller written in Rust. It supports both Linux and Windows operating systems.
@@ -20,12 +22,14 @@ Instructions for installing the package will go here.
 Just tun package and it will automatically adjust the brightness of your screen.
 
 ## Installation
+You can just download builded binary for Linux or Windows from [latest release](https://github.com/websmithcode/automatic-brightness/releases/latest)
+Now tested only for windows, but should works and on linux.
 
 ### Prerequisites
 
 - Rust installed on your system. You can download it from [rust-lang.org](https://www.rust-lang.org/).
 
-### Steps
+### Build Steps
 
 1. Clone the repository:
   ```sh
