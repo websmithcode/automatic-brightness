@@ -25,11 +25,11 @@ Just tun package and it will automatically adjust the brightness of your screen.
 You can just download builded binary for Linux or Windows from [latest release](https://github.com/websmithcode/automatic-brightness/releases/latest)
 Now tested only for windows, but should works and on linux.
 
-### Prerequisites
-
-- Rust installed on your system. You can download it from [rust-lang.org](https://www.rust-lang.org/).
 
 ### Build Steps
+#### Prerequisites
+- Rust installed on your system. You can download it from [rust-lang.org](https://www.rust-lang.org/).
+
 
 1. Clone the repository:
   ```sh
